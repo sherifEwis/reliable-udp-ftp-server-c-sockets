@@ -33,10 +33,10 @@ Go to a protocol type subdirectory, `cd goBackN` or `cd selRepeat`. If you are u
 `make`  
   
 server-side:  
-./server <choose a port>  
+`./server <choose a port>`  
   
 client-side:  
-./client <server`s IP address> <port> <filename>  
+`./client <server`s IP address> <port> <filename>`  
   
 ##Experimentation
   
