@@ -50,5 +50,5 @@ enviorments:
 	FarEast Asia to Central-America:  
 		-client running on a google cloud virtual machine in Aentral America.  
 		-server is running on a google cloud virtual machine in far east Asia.  
-	Local:
+	Local:  
 		-both server and client is running on the same network.  
