@@ -36,7 +36,7 @@ server-side:
 `./server <choose a port>`  
   
 client-side:  
-`./client <server`s IP address> <port> <filename>`  
+`./client <server IP address> <port> <filename>`  
   
 ##Experimentation
   
