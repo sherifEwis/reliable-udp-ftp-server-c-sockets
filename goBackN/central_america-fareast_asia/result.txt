@@ -1,0 +1,3 @@
+This is the worst case in a WAN environment. it would take many hours for a 200 MB file to transfer. for the reasons mentioned before
+
+ACK: 3, window_base: 3, SEQ:52 count: 1 0.036348% out of 200.286800 MB  speed: 0.066132Mb/s

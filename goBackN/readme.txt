@@ -1,0 +1,1 @@
+Client and server are identical in both environments. since the window size cannot be bigger than 2. otherwise it timesout or packets come out of order too often

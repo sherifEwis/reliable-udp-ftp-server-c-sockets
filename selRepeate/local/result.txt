@@ -1,0 +1,2 @@
+ACK: 3, window_base: 2, SEQ:143060      99.998604% out of 200.286800 MB speed: 151.351351Mb/s
+window size: 2  delivery_time:74 usec   packet size:1400 bytes  total time:437 sec
